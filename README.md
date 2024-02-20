@@ -14,6 +14,6 @@ Soy un Data Scientist Junior con un enfoque en el análisis de datos y el desarr
 ## Contacto
 Puedes encontrarme en LinkedIn o enviarme un correo electrónico.
 
-- LinkedIn: [Sergio Cabrera](https://www.linkedin.com/in/sergio-cabrera-dominguez-dev)<br>
-- Correo electrónico: scabrera.main@gmail.com
+- LinkedIn 👨‍💼: [Sergio Cabrera](https://www.linkedin.com/in/sergio-cabrera-dominguez-dev)<br>
+- Correo electrónico 📧: scabrera.main@gmail.com
 
