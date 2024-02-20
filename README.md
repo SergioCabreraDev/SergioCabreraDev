@@ -3,11 +3,11 @@
 ## Acerca de mí
 Soy un Data Scientist Junior con un enfoque en el análisis de datos y el desarrollo de modelos predictivos. Mi objetivo es aplicar mis habilidades para resolver problemas desafiantes y tomar decisiones informadas a través de datos.
 ## Habilidades
-Análisis exploratorio de datos <br>
-Limpieza y preprocesamiento de datos <br>
-Desarrollo de modelos predictivos <br>
-Visualización de datos <br>
-Python <br>
-Machine Learning <br>
-Deep Learning <br>
+· Análisis exploratorio de datos <br>
+· Limpieza y preprocesamiento de datos <br>
+· Desarrollo de modelos predictivos <br>
+· Visualización de datos <br>
+· Python <br>
+· Machine Learning <br>
+· Deep Learning <br>
 
