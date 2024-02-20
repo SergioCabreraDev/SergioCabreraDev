@@ -1,7 +1,7 @@
 # ¡Hola soy Sergio, bienvenido a mi portfolio! 👋
 
 ## Acerca de mí 👨🏻‍💼
-Soy un Data Scientist Junior con un enfoque en el análisis de datos y el desarrollo de modelos predictivos. Mi objetivo es aplicar mis habilidades para resolver problemas desafiantes y tomar decisiones.
+Data Scientist Junior enfocado principalmente en el análisis de datos y desarrollo de modelos predictivos. Mi objetivo es aprender y enfrentarme a problemas reales para mejorar mis capacidades de resolución.
 ## Habilidades ⚒️
 - Análisis exploratorio de datos <br>
 - Limpieza y preprocesamiento de datos <br>
