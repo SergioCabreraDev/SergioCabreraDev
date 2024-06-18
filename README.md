@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola soy Sergio, bienvenido a mi GitHub! 👋<br>Acerca de mí 👨🏻‍💼<br>Hola! Soy un desarrollador junior enfocado principalmente en el desarrollo de aplicaciones web. Mi objetivo es aprender y enfrentarme a problemas reales para mejorar mis capacidades de resolución.
+Hola! Soy un desarrollador junior enfocado principalmente en el desarrollo de aplicaciones web. Mi objetivo es aprender y enfrentarme a problemas reales para mejorar mis capacidades de resolución.
 
 
 ## 🌐 Socials:
